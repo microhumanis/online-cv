@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kyungjun Min
-    tagline: M.S Student Researcher of CSDL 
+    tagline: M.S.- Ph.D. Student of CSDL
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,7 +24,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Kyungjun Min is currently M.S Student in the
+      Kyungjun Min is currently M.S.- Ph.D. Student of CSDL in the
       Department of Electrical Engineering in Pohang University of Science and
       Technology (POSTECH), Korea. He is working with Professor Seokhyeong
       Kang in CAD & SoC Design Lab(CSDL).
@@ -32,11 +32,15 @@ career-profile:
 education:
     - degree: BS in Electrical Engineering
       university: Pohang University of Science and Technology
-      time: Feb.2016 - Present
+      time: Feb.2016 - Feb.2021
 
 experiences:
     - role: Undergraduated Student Researcher
       time: Jan.2019 - Feb.2019
+      company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
+
+    - role: Undergraduated Student Researcher
+      time: Sep.2020 - Feb.2021
       company: CAD & SoC Design Lab(CSDL) in POSTECH, Prof, Seokhyeong Kang
 
 skills:
